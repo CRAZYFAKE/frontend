@@ -1,2 +1,2 @@
 # frontend
-Many interesting frontend package
+Many interesting frontend packages
